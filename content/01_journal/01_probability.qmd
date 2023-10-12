@@ -1,6 +1,5 @@
 ---
-title: "Tidyverse"
-author: "Oliver Mork"
+title: "Probability Theory"
 ---
 
 ::: callout-note

@@ -14,18 +14,26 @@ website:
         text: Home
       - text: "Journal"
         menu: 
-          - text: "01 Tidyverse"
-            file: content/01_journal/01_tidyverse.qmd
-          - text: "02 Data Acquisition"
-            file: content/01_journal/02_data_acquisition.qmd
-          - text: "03 Data Wrangling"
-            file: content/01_journal/03_data_wrangling.qmd
-          - text: "04 Data Visualization"
-            file: content/01_journal/04_data_visualization.qmd
-      - text: "Class notes"
-        file: content/02_notes/05_class_notes.qmd
-      - text: "Links"
-        file: content/03_other/06_links.qmd
+          - text: "01 Probability Theory"
+            file: content/01_journal/01_probability.qmd
+          - text: "02 Statistical Concepts"
+            file: content/01_journal/02_statistics.qmd
+          - text: "03 Regression and Statistical Inference"
+            file: content/01_journal/03_regression.qmd
+          - text: "04 Causality"
+            file: content/01_journal/04_causality.qmd
+          - text: "05 Directed Acyclic Graphs"
+            file: content/01_journal/05_dag.qmd
+          - text: "06 Randomized Controlled Trials"
+            file: content/01_journal/06_rct.qmd
+          - text: "07 Matching and Subclassification"
+            file: content/01_journal/07_matching.qmd
+          - text: "08 Difference-in-Differences"
+            file: content/01_journal/08_did.qmd
+          - text: "09 Instrumental Variables"
+            file: content/01_journal/09_iv.qmd
+          - text: "10 Regression Discontinuity"
+            file: content/01_journal/10_rdd.qmd            
 
 format:
   html:

@@ -1,6 +1,5 @@
 ---
-title: "Data Wrangling"
-author: "Joschka Schwarz"
+title: "Difference-in-Differences"
 ---
 
 ::: callout-note

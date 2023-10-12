@@ -1,6 +1,5 @@
 ---
-title: "Data Acquisition"
-author: "Joschka Schwarz"
+title: "Directed Acyclic Graphs"
 ---
 
 ::: callout-note
